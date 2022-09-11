@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo&display=swap');
+
+body{
+    padding: 20rem 0 0 0;
+    background: #BFCDE0;
+
+    color:#3B3355;
+    font-family: 'Archivo', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+
+    transition: 150ms ease-in;
+}
+
+#timeText{
+    font-weight: 800;
+    font-size: 8rem;
+}
+
+#divideLine{
+    border: #3B3355 2px solid;
+    width: 10%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#dateText{
+    padding: 20px 0 0 0;
+    font-weight: 400;
+    font-size: 2rem;
+}
+
+.buttonPosition{
+    padding-top: 10rem;
+}
+
+#darkModeButton{
+    margin-top: 10px;
+
+    border-radius: 100%;
+    padding: 10px;
+    color: #3B3355;
+    cursor:pointer;
+    font-size: 3rem;
+
+    transition: 150ms ease-in;
+}
+
+#darkModeButton:hover{
+    background: #000505;
+    color: #BFCDE0;
+    transition: 150ms ease-in;
+}
+
+
+.lightModeButton{
+    color: #BFCDE0;
+}
+
+.darkMode{
+    background: #000505;
+    color: #BFCDE0;
+}
+
+.divideLineDark{
+    border: #BFCDE0 2px solid;
+}
+
+/* #000505  mov închis */
