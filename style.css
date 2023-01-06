@@ -1,11 +1,11 @@
-@import url('https://fonts.googleapis.com/css2?family=Archivo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&display=swap');
 
 body{
     padding: 20rem 0 0 0;
-    background: #BFCDE0;
+    background: #c5edbf;
 
-    color:#3B3355;
-    font-family: 'Archivo', Tahoma, Geneva, Verdana, sans-serif;
+    color:#006f00;
+    font-family: 'IBM Plex Sans', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
 
     transition: 150ms ease-in;
@@ -17,7 +17,7 @@ body{
 }
 
 #divideLine{
-    border: #3B3355 2px solid;
+    border: #006f00 2px solid;
     width: 10%;
     margin-left: auto;
     margin-right: auto;
